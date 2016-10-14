@@ -1,13 +1,10 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Adds more variations to the quarterstaff.[/h1]
-This is a submod which requires the Quarterstaff Armory mod. Art entirely from vanilla assets.
-
-[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-qsarmext]git.[/url]",
+  "dependencies" : ["QSARM.IHC"],
+  "description" : "[h1]Adds more variations to the quarterstaff.[/h1]\nThis is a submod which requires the Quarterstaff Armory mod. Art entirely from vanilla assets.\n\n[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]\nFind the server version on [url=https://github.com/IsaacHart/sbmod-qsarmext]git.[/url]",
   "friendlyName" : "Quarterstaff Armory Extended",
-  "link" : "community.playstarbound.com/threads/124193/",
+  "link" : "steam://url/CommunityFilePage/780877538",
   "name" : "QSARMEXT.IHC",
-  "version" : "0.1",
-  "dependencies":["QSARM.IHC"]
+  "steamContentId" : "780877538",
+  "version" : "0.1"
 }

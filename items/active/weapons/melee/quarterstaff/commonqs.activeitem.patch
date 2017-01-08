@@ -1,7 +1,23 @@
-[
+[[
+  {
+    "op": "test",
+    "path": "/builderConfig/0/animationParts/blade/path",
+    "value": "qs/<variants>.png"
+  },
   {
     "op": "replace",
     "path": "/builderConfig/0/animationParts/blade/variants",
     "value": 269
   }
-]
+],[
+  {
+    "op": "test",
+    "path": "/QS0",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/4/animationParts/blade/variants",
+    "value": 269
+  }
+]]
